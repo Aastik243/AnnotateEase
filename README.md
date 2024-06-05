@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # AnnotateEase
 A web annotator chrome extension through which you can make notes, save notes, highlight texts and much more
 =======
+=======
+>>>>>>> 1989ed0e309457e477e533823d3bd5296eede1fe
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,4 +75,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<<<<<<< HEAD
 >>>>>>> 1989ed0 (Initialize project using Create React App)
+=======
+>>>>>>> 1989ed0e309457e477e533823d3bd5296eede1fe
