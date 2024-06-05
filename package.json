@@ -9,20 +9,13 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
-<<<<<<< HEAD
-    "styled-components": "^6.1.11",
-=======
->>>>>>> 1989ed0e309457e477e533823d3bd5296eede1fe
     "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-<<<<<<< HEAD
     "build:extension": "node ./scripts/build-non-split.js && yarn build:clean",
     "build:clean": "cd build && mv static/js/*.js main.js && mv static/css/*.css main.css && rm -r static",
-=======
->>>>>>> 1989ed0e309457e477e533823d3bd5296eede1fe
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
